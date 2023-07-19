@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "865066921415",
+    "firebase_url": "https://hoyou-6559a-default-rtdb.firebaseio.com",
+    "project_id": "hoyou-6559a",
+    "storage_bucket": "hoyou-6559a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:865066921415:android:fb2e8346b166418fb17de2",
+        "android_client_info": {
+          "package_name": "com.HOYOU.firebaseHoyou"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "865066921415-82a7hj6sa906sjimsb62rtms9mpobgb2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.HOYOU.firebaseHoyou",
+            "certificate_hash": "35f8a5f5a5eb9c230f12528eeb256bb77e89bf2e"
+          }
+        },
+        {
+          "client_id": "865066921415-7cic9cgbt5psdid6h5ctmapog9a2s627.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqEALriMyBHuquTN3PcuUWEKiiXcpM8iI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "865066921415-7cic9cgbt5psdid6h5ctmapog9a2s627.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/firebase_database_url,@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_android_client_id,@string/default_web_client_id">
+  <string name="firebase_database_url" translatable="false">https://hoyou-6559a-default-rtdb.firebaseio.com</string>
+  <string name="gcm_defaultSenderId" translatable="false">865066921415</string>
+  <string name="google_storage_bucket" translatable="false">hoyou-6559a.appspot.com</string>
+  <string name="project_id" translatable="false">hoyou-6559a</string>
+  <string name="google_api_key" translatable="false">AIzaSyAqEALriMyBHuquTN3PcuUWEKiiXcpM8iI</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAqEALriMyBHuquTN3PcuUWEKiiXcpM8iI</string>
+  <string name="google_app_id" translatable="false">1:865066921415:android:fb2e8346b166418fb17de2</string>
+  <string name="default_android_client_id" translatable="false">865066921415-82a7hj6sa906sjimsb62rtms9mpobgb2.apps.googleusercontent.com</string>
+  <string name="default_web_client_id" translatable="false">865066921415-7cic9cgbt5psdid6h5ctmapog9a2s627.apps.googleusercontent.com</string>
+</resources>

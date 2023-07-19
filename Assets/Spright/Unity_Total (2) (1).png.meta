@@ -1,0 +1,659 @@
+fileFormatVersion: 2
+guid: 5cd8014a5cf0fff4591b0c9b629b22d0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5564946554344594065
+    second: Unity_Total (2) (1)_0
+  - first:
+      213: -473042074622942942
+    second: Unity_Total (2) (1)_1
+  - first:
+      213: 4853173552685469105
+    second: Unity_Total (2) (1)_2
+  - first:
+      213: -8131760211029921914
+    second: Unity_Total (2) (1)_3
+  - first:
+      213: -2595183796246067096
+    second: Unity_Total (2) (1)_4
+  - first:
+      213: -518658155238803430
+    second: Unity_Total (2) (1)_5
+  - first:
+      213: 4087682079214765540
+    second: Unity_Total (2) (1)_6
+  - first:
+      213: 1036662918969120225
+    second: Unity_Total (2) (1)_7
+  - first:
+      213: -466229412347052498
+    second: Unity_Total (2) (1)_8
+  - first:
+      213: 3989175428988733828
+    second: Unity_Total (2) (1)_9
+  - first:
+      213: 8913383470154912440
+    second: Unity_Total (2) (1)_10
+  - first:
+      213: -13437452180175887
+    second: Unity_Total (2) (1)_11
+  - first:
+      213: 6534084901161343057
+    second: Unity_Total (2) (1)_12
+  - first:
+      213: 5584490246305471708
+    second: Unity_Total (2) (1)_13
+  - first:
+      213: 439961611930646274
+    second: Unity_Total (2) (1)_14
+  - first:
+      213: -3960311690737553711
+    second: Unity_Total (2) (1)_15
+  - first:
+      213: -459634476641625022
+    second: Unity_Total (2) (1)_16
+  - first:
+      213: 6680171662401942044
+    second: Unity_Total (2) (1)_17
+  - first:
+      213: 477340437662006182
+    second: Unity_Total (2) (1)_18
+  - first:
+      213: -2627373416021121494
+    second: Unity_Total (2) (1)_19
+  - first:
+      213: 2162017307793009991
+    second: Unity_Total (2) (1)_20
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Unity_Total (2) (1)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 35
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19a5eb52869aa3d40800000000000000
+      internalID: 5564946554344594065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_Total (2) (1)_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 35
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 221294a4dba6f69f0800000000000000
+      internalID: -473042074622942942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_Total (2) (1)_2
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 35
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bd432902afe95340800000000000000
+      internalID: 4853173552685469105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_Total (2) (1)_3
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 35
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68fe7e60c2f262f80800000000000000
+      internalID: -8131760211029921914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_Total (2) (1)_4
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 35
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86847e1561e0cfbd0800000000000000
+      internalID: -2595183796246067096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_Total (2) (1)_5
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 35
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a18b121e72b5dc8f0800000000000000
+      internalID: -518658155238803430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_Total (2) (1)_6
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 35
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e5835e813d5ab830800000000000000
+      internalID: 4087682079214765540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_Total (2) (1)_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 18
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e559fcae67f26e00800000000000000
+      internalID: 1036662918969120225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_Total (2) (1)_8
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 18
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2ef635d1de9789f0800000000000000
+      internalID: -466229412347052498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_Total (2) (1)_9
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 18
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4890797cae56c5730800000000000000
+      internalID: 3989175428988733828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_Total (2) (1)_10
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 18
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b21c6d7a03b2bb70800000000000000
+      internalID: 8913383470154912440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_Total (2) (1)_11
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 18
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f34d1c55b240dff0800000000000000
+      internalID: -13437452180175887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_Total (2) (1)_12
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 18
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15817f9399bbdaa50800000000000000
+      internalID: 6534084901161343057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_Total (2) (1)_13
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 18
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdcdba68a48108d40800000000000000
+      internalID: 5584490246305471708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_Total (2) (1)_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2073fe941ce0b1600800000000000000
+      internalID: 439961611930646274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_Total (2) (1)_15
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dee2c9ff752a09c0800000000000000
+      internalID: -3960311690737553711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_Total (2) (1)_16
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24cd045f0ec0f99f0800000000000000
+      internalID: -459634476641625022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_Total (2) (1)_17
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c123910ebbcb4bc50800000000000000
+      internalID: 6680171662401942044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_Total (2) (1)_18
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6abf5c7599adf9600800000000000000
+      internalID: 477340437662006182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_Total (2) (1)_19
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a26a1cd6cc1b98bd0800000000000000
+      internalID: -2627373416021121494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_Total (2) (1)_20
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74daf3d5947010e10800000000000000
+      internalID: 2162017307793009991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Unity_Total (2) (1)_9: 3989175428988733828
+      Unity_Total (2) (1)_18: 477340437662006182
+      Unity_Total (2) (1)_15: -3960311690737553711
+      Unity_Total (2) (1)_19: -2627373416021121494
+      Unity_Total (2) (1)_0: 5564946554344594065
+      Unity_Total (2) (1)_11: -13437452180175887
+      Unity_Total (2) (1)_6: 4087682079214765540
+      Unity_Total (2) (1)_14: 439961611930646274
+      Unity_Total (2) (1)_8: -466229412347052498
+      Unity_Total (2) (1)_2: 4853173552685469105
+      Unity_Total (2) (1)_3: -8131760211029921914
+      Unity_Total (2) (1)_4: -2595183796246067096
+      Unity_Total (2) (1)_7: 1036662918969120225
+      Unity_Total (2) (1)_10: 8913383470154912440
+      Unity_Total (2) (1)_12: 6534084901161343057
+      Unity_Total (2) (1)_16: -459634476641625022
+      Unity_Total (2) (1)_17: 6680171662401942044
+      Unity_Total (2) (1)_5: -518658155238803430
+      Unity_Total (2) (1)_20: 2162017307793009991
+      Unity_Total (2) (1)_13: 5584490246305471708
+      Unity_Total (2) (1)_1: -473042074622942942
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
